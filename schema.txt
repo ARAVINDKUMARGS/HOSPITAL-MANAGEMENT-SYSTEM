@@ -1,0 +1,8 @@
+User:
+- name
+- email
+- role (teacher/student)
+
+Assignment:
+- title
+- description
